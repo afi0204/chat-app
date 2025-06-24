@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895892457976",
+    "project_id": "aquaview-2s882",
+    "storage_bucket": "aquaview-2s882.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895892457976:android:d216a9c0413ff318c32e0d",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3qkAmZSghrK2cSap8LKSogsOBP33_pxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

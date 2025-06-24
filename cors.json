@@ -1,0 +1,12 @@
+[
+  {
+    "origin": ["http://localhost:5000", "http://localhost:52442", "http://localhost:62594", "https://*.firebaseapp.com", "https://*.web.app"],
+    "method": ["GET", "POST", "PUT", "DELETE", "HEAD", "OPTIONS"],
+    "responseHeader": [
+      "Content-Type",
+      "Access-Control-Allow-Origin",
+      "x-goog-resumable"
+    ],
+    "maxAgeSeconds": 3600
+  }
+]
